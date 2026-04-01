@@ -12,7 +12,7 @@ This repository contains my solutions to the **LeetCode Daily Challenge** proble
 - Each file corresponds to a daily challenge problem
 
 ## 🛠 Language
-- C++ / Go (update accordingly)
+- C++ 
 
 ## ✍️ Solution Format
 Each solution includes minimal metadata at the top of the file:
