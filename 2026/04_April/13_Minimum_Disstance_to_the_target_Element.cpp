@@ -3,7 +3,6 @@
 // Time Complexity : O(n)
 
 #include<vector>
-
 using namespace std;
 
 class Solution {
